@@ -1,0 +1,14 @@
+[
+  {
+    "repository" : "jash69/android_vendor_xiaomi_sweet.git",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "rad-12",
+    "remote": "github"
+  },
+  {
+    "repository": "jash69/kernel_xiaomi_sm6150.git",
+    "target_path": "kernel/xiaomi/sweet",
+    "branch":"12",
+    "remote":"github"
+  }
+]
