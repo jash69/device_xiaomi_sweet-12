@@ -14,5 +14,11 @@
     "target_path": "vendor/dolby",
     "remote": "RadiantDevicesGitlab",
     "branch": "twelve"
-  }
+  },
+  {
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master",
+    "remote": "github"
+   }
 ] 
