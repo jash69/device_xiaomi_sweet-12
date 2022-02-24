@@ -5,7 +5,7 @@
     "branch": "twelve"
   },
   {
-    "repository": "vendor_xiaomi_sweet",
+    "repository": "vendor_xiaomi_sweet-1",
     "target_path": "vendor/xiaomi/sweet",
     "branch": "twelve"
   },
